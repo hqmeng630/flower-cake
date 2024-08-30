@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bookstore-microservice-platform-configuration" />
+        <module name="bookstore-microservices-domain-warehouse" />
+        <module name="bookstore-microservices-platform-registry" />
+        <module name="bookstore-microservices-platform-gateway" />
+        <module name="bookstore-microservices-domain-account" />
+        <module name="bookstore-microservices-domain-payment" />
+        <module name="bookstore-microservices-library-testing" />
+        <module name="bookstore-microservices-library-infrastructure" />
+        <module name="bookstore-microservices-domain-security" />
+        <module name="bookstore-microservices-report-aggregation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bookstore-microservice-platform-configuration" options="-parameters" />
+      <module name="bookstore-microservices-domain-account" options="-parameters" />
+      <module name="bookstore-microservices-domain-payment" options="-parameters" />
+      <module name="bookstore-microservices-domain-security" options="-parameters" />
+      <module name="bookstore-microservices-domain-warehouse" options="-parameters" />
+      <module name="bookstore-microservices-library-infrastructure" options="-parameters" />
+      <module name="bookstore-microservices-library-testing" options="-parameters" />
+      <module name="bookstore-microservices-platform-gateway" options="-parameters" />
+      <module name="bookstore-microservices-platform-registry" options="-parameters" />
+      <module name="bookstore-microservices-report-aggregation" options="-parameters" />
+    </option>
+  </component>
+</project>

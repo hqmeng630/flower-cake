@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-domain-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-domain-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-domain-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-domain-warehouse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-library-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-library-testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-platform-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-platform-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-platform-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-microservices-report-aggregation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
